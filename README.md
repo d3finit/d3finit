@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3finit&label=Profile%20views&color=0e75b6&style=flat" alt="d3finit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3finit" alt="d3finit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3finit&theme=onedark" alt="d3finit" /></a> </p>
 
 - 💬 Ask me about **python, webdev, linux**
 
